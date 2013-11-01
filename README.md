@@ -1,6 +1,10 @@
 PDF Reader X
 ============
 
+Quick links:
+[Todo List](https://github.com/kenwei/pdf_reader_x/wiki/Todo-List), 
+[Report an Issue](https://github.com/kenwei/pdf_reader_x/wiki/Report-an-Issue)
+
 Fast and clean tabbed style PDF reader, which make reading enjoyable and efficient.
 
 Key features:
@@ -18,6 +22,3 @@ Key features:
 * Powerful searching capabilities;
 * Export PDF to JPEG or Text;
 
-Quick links:
-[Todo List](https://github.com/kenwei/pdf_reader_x/wiki/Todo-List), 
-[Report an Issue](https://github.com/kenwei/pdf_reader_x/wiki/Report-an-Issue)
