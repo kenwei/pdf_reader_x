@@ -2,8 +2,8 @@ PDF Reader X
 ============
 
 Quick links:
-[Todo List](https://github.com/kenwei/pdf_reader_x/wiki/Todo-List), 
-[Report an Issue](https://github.com/kenwei/pdf_reader_x/wiki/Report-an-Issue)
+[Todo List](https://github.com/kenwei/pdf_reader_x/wiki/Support), 
+[Report an Issue](https://github.com/kenwei/pdf_reader_x/issues/new)
 
 Fast and clean tabbed style PDF reader, which make reading enjoyable and efficient.
 
