@@ -1,4 +1,4 @@
-PDF Reader X
+PDF Guru, http://getpdfguru.com/
 ============
 
 Quick links:
