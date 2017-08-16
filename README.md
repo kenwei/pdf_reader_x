@@ -1,4 +1,4 @@
-PDF Guru, http://getpdfguru.com/
+[PDF Guru](http://getpdfguru.com/?source=github)
 ============
 
 Quick links:
